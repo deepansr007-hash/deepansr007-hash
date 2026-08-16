@@ -130,27 +130,6 @@ Python • AI • Web Development • Database
 <tr>
 <td width="50%">
 
-### 🚗 Smart Car Parking
-
-Smart parking management project focused on improving parking availability and management.
-
-**Tech:**
-Firebase • Web/App Development
-
-</td>
-
-<td width="50%">
-
-### 👨‍💻 AI Face Attendance System
-
-AI-based attendance system using facial recognition technology.
-
-**Tech:**
-Python • OpenCV • AI
-
-</td>
-</tr>
-</table>
 
 ---
 
