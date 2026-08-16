@@ -309,23 +309,23 @@ AI-powered healthcare project designed to help users understand symptoms and dis
 
 # 🐍 Contribution Snake
 
+<h2 align="center">🐍 GitHub Contribution Snake</h2>
+
 <div align="center">
 
 <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/deepansr007-hash/deepansr007-hash/output/github-contribution-grid-snake-dark.svg">
 
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/deepansr007-hash/deepansr007-hash/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/deepansr007-hash/deepansr007-hash/output/github-contribution-grid-snake.svg">
 
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/deepansr007-hash/deepansr007-hash/output/github-contribution-grid-snake.svg">
-
-<img
-src="https://raw.githubusercontent.com/deepansr007-hash/deepansr007-hash/output/github-contribution-grid-snake.svg"
-alt="GitHub Contribution Snake"
-width="100%">
-
+  <img
+    src="https://raw.githubusercontent.com/deepansr007-hash/deepansr007-hash/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%">
 </picture>
 
 </div>
