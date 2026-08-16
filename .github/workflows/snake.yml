@@ -1,24 +1,26 @@
-name: Generate GitHub Contribution Snake
+name: Generate Contribution Snake
 
 on:
 schedule:
-- cron: "0 */24 * * *"
+- cron: "0 0 * * *"
+
 workflow_dispatch:
+
 push:
 branches:
 - main
 
 jobs:
 generate:
-permissions:
-contents: write
-
-```
 runs-on: ubuntu-latest
 timeout-minutes: 5
 
+```
+permissions:
+  contents: write
+
 steps:
-  - name: Generate contribution snake
+  - name: Generate GitHub Contribution Snake
     uses: Platane/snk/svg-only@v3
     with:
       github_user_name: deepansr007-hash
@@ -26,7 +28,7 @@ steps:
         dist/github-contribution-grid-snake.svg
         dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-  - name: Publish snake to output branch
+  - name: Push Snake to Output Branch
     uses: crazy-max/ghaction-github-pages@v3.1.0
     with:
       target_branch: output
