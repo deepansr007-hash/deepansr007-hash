@@ -168,30 +168,7 @@ AI-powered healthcare application designed to help users understand symptoms and
 
 <td width="50%" valign="top">
 
-## 🚗 Smart Car Parking
 
-Smart parking management project designed to improve parking availability and management.
-
-**Technologies**
-
-`Firebase` `Web Development`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 👨‍💻 AI Face Attendance
-
-AI-powered attendance system using facial recognition.
-
-**Technologies**
-
-`Python` `OpenCV` `AI`
-
-</td>
-
-</tr>
-</table>
 
 ---
 
