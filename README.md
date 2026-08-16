@@ -112,7 +112,7 @@ https://github.com/deepansr007-hash/book-a-doctor
 
 ### 🤖 AI CRM BUSINESS SYSTEM
 
-<img src="https://img.shields.io/badge/AI-CRM-6A5ACD?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-CRM-BUSINESS-SYSTEMS-6A5ACD?style=flat-square"/>
 
 An AI-powered CRM application focused on combining modern customer relationship management with AI-powered functionality.
 
