@@ -110,7 +110,7 @@ https://github.com/deepansr007-hash/book-a-doctor
 
 <td width="50%" valign="top">
 
-### 🤖 AI CRM
+### 🤖 AI CRM BUSINESS SYSTEM
 
 <img src="https://img.shields.io/badge/AI-CRM-6A5ACD?style=flat-square"/>
 
