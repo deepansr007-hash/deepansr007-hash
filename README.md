@@ -255,7 +255,7 @@ A modern healthcare platform designed to connect patients with doctors and simpl
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&text=AI%20CRM&fontSize=32&fontColor=ffffff&animation=fadeIn" width="90%" alt="AI CRM"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&text=AI%20CRM%20BUSINESS%20SYSTEMS&fontSize=32&fontColor=ffffff&animation=fadeIn" width="90%" alt="AI CRM"/>
 
 <br><br>
 
